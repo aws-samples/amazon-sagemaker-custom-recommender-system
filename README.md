@@ -2,9 +2,9 @@
 
 ## Summary 
 
-Recommender systems have been used to tailor customer experiences on online platforms. [Amazon Personalize](https://aws.amazon.com/personalize/) is a fully-managed service that makes it easy to develop recommender system solutions; it automatically examines the data, performs feature and algorithm selection, optimizes the model based on your data, and deploys and hosts the model for real-time recommendation inference. However, due to unique constraints in some domains, sometimes recommender systems need to be custom-built. 
+Recommender systems have been used to tailor customer experience on online platforms. [Amazon Personalize](https://aws.amazon.com/personalize/) is a fully-managed service that makes it easy to develop recommender system solutions; it automatically examines the data, performs feature and algorithm selection, optimizes the model based on your data, and deploys and hosts the model for real-time recommendation inference. However, due to unique constraints in some domains, sometimes recommender systems need to be custom-built. 
 
-In this project, I will show you how to build and deploy a customized recommender system using Neural Collaborative Filtering model in Tensorflow 2.0 on [Amazon SageMaker](https://aws.amazon.com/sagemaker/), based on which you can customize further accordingly.
+In this project, I will walk you through how to build and deploy a customized recommender system using Neural Collaborative Filtering model in Tensorflow 2.0 on [Amazon SageMaker](https://aws.amazon.com/sagemaker/), based on which you can customize further accordingly.
 
 ## Getting Started
 
